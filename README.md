@@ -13,3 +13,4 @@ Tout le logiciel s'améliorera au fur et a mesure.
 # Prochaine avancée :
 - Amélioration graphique
 - Ajout d'un menu pour sélectionner un type de cryptage.
+- Refonte et nettoyage du code complet
